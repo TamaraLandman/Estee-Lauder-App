@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "FL22_DIGITAL_NK_ANR_BTS_ADUT_SHOT_0238_ANR_X5_R300_SQUARE_REL.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
